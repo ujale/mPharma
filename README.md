@@ -11,5 +11,6 @@ This repository contains a test to create patients first using only required fie
 - Open The mPharma folder on an IDE of choice eg pycharm
 - Click on the create_patient.py file to view test
 - Run the create_patient.py file
+- Run the unittest file
 
 The browser used for the test is chrome, hence ensure you have that.
